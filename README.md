@@ -21,12 +21,18 @@
 
 - Location: Uttara, Dhaka, Bangladesh
 - Current Role: Front-End Developer
-- Education: B.Sc. in Computer Science and Engineering, Daffodil International University (DIU)
-- Open to: Full-time opportunities, freelance projects, and open source collaboration
+- Education: B.Sc. in Computer Science and Engineering,
+  Daffodil International University (DIU)
+- Open to: Full-time opportunities, freelance projects,
+  and open source collaboration
 
 ## Professional Summary
 
-I build clean, scalable web applications with a strong focus on user experience, performance, and maintainable code. I enjoy turning product ideas into production-ready interfaces and continuously improving my backend and cloud skills to deliver complete full-stack solutions.
+I build clean, scalable web applications with a strong
+focus on user experience, performance, and maintainable
+code. I enjoy turning product ideas into production-ready
+interfaces and continuously improving my backend and cloud
+skills to deliver complete full-stack solutions.
 ```
 
 <br clear="right"/>
