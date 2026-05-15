@@ -17,28 +17,16 @@
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Animation" />
 
 ```yaml
-name: Md Sohag Ali
-located_in: Uttara, Dhaka, Bangladesh
-current_work: Fornt-End Developer
-education: 
-  - "Computer Science & Engineering at DIU"
+## About Me
 
-fields_of_interests:
-  - "Web Development"
-  - "Full Stack Development"
-  - "MERN Stack Developmnet"
-  - "Fornt-End Development"
-  - "Back-end Developmnet"
-  - "Open Source"
-  
-currently_learning: 
-  - "Next.js 15"
+- Location: Uttara, Dhaka, Bangladesh
+- Current Role: Front-End Developer
+- Education: B.Sc. in Computer Science and Engineering, Daffodil International University (DIU)
+- Open to: Full-time opportunities, freelance projects, and open source collaboration
 
-2025_goals:
-  - "Contribute to Open Source Projects"
-  - "Build Amazing Full-Stack Applications"
-  - "Learn Cloud Technologies"
-  - "Share Knowledge with Community"
+## Professional Summary
+
+I build clean, scalable web applications with a strong focus on user experience, performance, and maintainable code. I enjoy turning product ideas into production-ready interfaces and continuously improving my backend and cloud skills to deliver complete full-stack solutions.
 ```
 
 <br clear="right"/>
