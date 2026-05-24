@@ -156,7 +156,7 @@ skills to deliver complete full-stack solutions.
 
 
 <!-- Current Focus Section -->
-## <img src="https://user-images.githubusercontent.com/74038190/212284094-6a4a4c58-ad2b-4d86-9a1c-6b2b7d1c4e44.gif" width="32"> What I'm Up To
+
 
 <!-- <div align="left">
 
@@ -190,7 +190,7 @@ interface Developer {
 <img src="https://img.shields.io/github/stars/Sohag-Ali?label=Total%20Stars&style=for-the-badge&color=yellow" />
 
 <!-- Recent Activity -->
-### 📊 **Recent Activity**
+
 
 
 
