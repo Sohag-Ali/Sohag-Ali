@@ -45,10 +45,10 @@ skills to deliver complete full-stack solutions.
 <div align="center">
 
 ### 🎨 **Frontend Development**
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,pixso&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,pixso&theme=dark" />
 
 ### ⚙️ **Backend Development**
-<img src="https://skillicons.dev/icons?i=nodejs,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb&theme=dark" />
 
 ### 🛠️ **Tools & Technologies**
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
