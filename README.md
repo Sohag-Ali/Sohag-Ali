@@ -44,14 +44,14 @@ backend and cloud skills to deliver complete full-stack solutions.
 
 <table width="100%">
 <tr>
-<td align="center" width="50%">
+<td align="center" width="100%">
 
 **🎨 Languages**
 
 <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts&theme=dark" />
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="100%">
 
 **🖥️ Frontend**
 
@@ -60,14 +60,14 @@ backend and cloud skills to deliver complete full-stack solutions.
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="100%">
 
 **⚙️ Backend & Database**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb&theme=dark" />
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="100%">
 
 **🛠️ Tools & Design**
 
