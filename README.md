@@ -42,16 +42,16 @@ backend and cloud skills to deliver complete full-stack solutions.
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Nqcmd5d2tmYnhjNGdodGZjYWltZDZ3aDdtaDZ2bzF6M2NxMWdrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IbgaMPs8P7Y4hQe6yh/giphy.gif" width="32"> Tech Stack
 
-<table width="100%">
+<table width="100%" >
 <tr>
-<td align="center" width="100%">
+<td align="center" width="50%">
 
 **🎨 Languages**
 
 <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts&theme=dark" />
 
 </td>
-<td align="center" width="100%">
+<td align="center" width="50%">
 
 **🖥️ Frontend**
 
@@ -59,15 +59,15 @@ backend and cloud skills to deliver complete full-stack solutions.
 
 </td>
 </tr>
-<tr>
-<td align="center" width="100%">
+<tr >
+<td align="center" width="50%">
 
 **⚙️ Backend & Database**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb&theme=dark" />
 
 </td>
-<td align="center" width="100%">
+<td align="center" width="50%" >
 
 **🛠️ Tools & Design**
 
