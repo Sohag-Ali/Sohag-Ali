@@ -103,12 +103,12 @@ backend and cloud skills to deliver complete full-stack solutions.
 <br>
 
 ## 🐍 Contribution Snake
-
+![snake gif](https://github.com/Sohag-Ali/Sohag-Ali/blob/output/github-contribution-grid-snake.gif)
 <div align="center">
 
-![snake gif](https://github.com/Sohag-Ali/Sohag-Ali/blob/output/github-contribution-grid-snake.gif)
 
- <picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sohag-Ali/Sohag-Ali/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sohag-Ali/Sohag-Ali/output/github-contribution-grid-snake.svg" />
   <img width="100%" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sohag-Ali/Sohag-Ali/output/github-contribution-grid-snake-dark.svg" />
