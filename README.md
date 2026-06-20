@@ -18,22 +18,19 @@
 
 ```yaml
 Location: Uttara, Dhaka, Bangladesh
-Current Role: Front-End Developer
 Education: B.Sc. in Computer Science and Engineering,
   Daffodil International University (DIU)
 Open to: Full-time opportunities, freelance projects,
   and open source collaboration
-Currently Learning: Next.js
+Currently Learning: Next.js & Prisma
 ```
+Full-Stack Developer with hands-on experience building modern web applications using React, Next.js, Node.js, MongoDB, PostgreSQL, and Prisma. Experienced in developing end-to-end solutions, from database design and API development to responsive user interfaces and deployment.
 
-I build clean, scalable web applications with a strong focus on user
-experience, performance, and maintainable code. I enjoy turning product
-ideas into production-ready interfaces and continuously improving my
-backend and cloud skills to deliver complete full-stack solutions.
+Currently open to Internship, Junior Software Engineer, and Full-Stack Developer opportunities, with a strong interest in building impactful products and growing within high-performing engineering teams.
 
 </td>
 <td width="40%" align="center" valign="top">
-<img width="100%" style="max-width:300px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Animation" />
+<img width="100%" style="max-width:300px; height:340px;" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Animation" />
 </td>
 </tr>
 </table>
@@ -42,36 +39,39 @@ backend and cloud skills to deliver complete full-stack solutions.
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Nqcmd5d2tmYnhjNGdodGZjYWltZDZ3aDdtaDZ2bzF6M2NxMWdrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IbgaMPs8P7Y4hQe6yh/giphy.gif" width="32"> Tech Stack
 
-<table width="100%" >
-<tr>
+<table width="100%">
+<tr width="100%">
 <td align="center" width="50%">
 
-**🎨 Languages**
+### 🎨 Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts&theme=dark&perline=5" width="100%" />
 
 </td>
+
 <td align="center" width="50%">
 
-**🖥️ Frontend**
+### 🖥️ Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark&perline=4" width="100%" />
 
 </td>
 </tr>
-<tr >
+
+<tr width="50%">
 <td align="center" width="50%">
 
-**⚙️ Backend & Database**
+### ⚙️ Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb&theme=dark&perline=4" width="100%" />
 
 </td>
-<td align="center" width="50%" >
 
-**🛠️ Tools & Design**
+<td align="center" width="50%">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,pixso&theme=dark" />
+### 🛠️ Tools & Design
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,pixso&theme=dark&perline=6" width="100%" />
 
 </td>
 </tr>
