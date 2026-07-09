@@ -138,11 +138,11 @@ Currently open to Internship, Junior Software Engineer, and Full-Stack Developer
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sohag-ali-7b1061284" target="_blank">
+<a href="https://www.linkedin.com/in/sohag-ali-bd" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
 </a>
-<a href="https://github.com/Sohag-Ali" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
+<a href="https://portfolio-sohag-ali.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0A192F" />
 </a>
 <a href="https://www.facebook.com/share/1AvrG2DC7b/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" />
