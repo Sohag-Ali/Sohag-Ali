@@ -45,7 +45,7 @@ Currently open to Internship, Junior Software Engineer, and Full-Stack Developer
 
 ### 🎨 Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts&theme=dark&perline=5" width="100%" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark&perline=5" width="100%" />
 
 </td>
 
