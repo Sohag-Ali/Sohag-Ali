@@ -53,7 +53,7 @@ Currently open to Internship, Junior Software Engineer, and Full-Stack Developer
 
 ### 🖥️ Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark&perline=4" width="100%" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark&perline=5" width="100%" />
 
 </td>
 </tr>
@@ -63,7 +63,7 @@ Currently open to Internship, Junior Software Engineer, and Full-Stack Developer
 
 ### ⚙️ Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb&theme=dark&perline=4" width="100%" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb&theme=dark&perline=5" width="100%" />
 
 </td>
 
@@ -71,7 +71,7 @@ Currently open to Internship, Junior Software Engineer, and Full-Stack Developer
 
 ### 🛠️ Tools & Design
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,pixso&theme=dark&perline=6" width="100%" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,pixso&theme=dark&perline=5" width="100%" />
 
 </td>
 </tr>
