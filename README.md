@@ -88,9 +88,15 @@ Currently open to Internship, Junior Software Engineer, and Full-Stack Developer
 
 <img width="100%" src="https://streak-stats.demolab.com/?user=Sohag-Ali&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=58A6FF&dates=C9D1D9&sideLabels=C9D1D9&border_radius=10" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sohag-Ali&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true&border_radius=10" />
 
 </div>
+
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Sohag-Ali&theme=vue&radius=10" alt="Sohag-Ali's Activity Graph" />
+</p>
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p>
 
 <br>
 
@@ -103,21 +109,21 @@ Currently open to Internship, Junior Software Engineer, and Full-Stack Developer
 
 <br>
 
-## 🐍 Contribution Snake
-![snake gif](https://github.com/Sohag-Ali/Sohag-Ali/blob/output/github-contribution-grid-snake.gif)
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sohag-Ali/Sohag-Ali/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sohag-Ali/Sohag-Ali/output/github-contribution-grid-snake.svg" />
-  <img width="100%" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sohag-Ali/Sohag-Ali/output/github-contribution-grid-snake-dark.svg" />
-</picture> 
+
 
 </div>
 
 <br>
+
+
+
+
 
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2NjaHZ5ZmZldXBhaTlwM203NWJnbGpqNzVudWY0Z3g2azN2N2Z0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vIvSdzRFGhN37VOirN/giphy.gif" width="32"> Detailed Analytics
 
