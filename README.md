@@ -37,45 +37,34 @@ Currently open to Internship, Junior Software Engineer, and Full-Stack Developer
 
 <br>
 
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Nqcmd5d2tmYnhjNGdodGZjYWltZDZ3aDdtaDZ2bzF6M2NxMWdrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IbgaMPs8P7Y4hQe6yh/giphy.gif" width="32"> Tech Stack
+<h2><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Nqcmd5d2tmYnhjNGdodGZjYWltZDZ3aDdtaDZ2bzF6M2NxMWdrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IbgaMPs8P7Y4hQe6yh/giphy.gif" width="32"> Tech Stack</h2>
 
-<table width="100%">
-<tr width="100%">
-<td align="center" width="50%">
 
-### 🎨 Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark&perline=5" width="100%" />
-
-</td>
-
-<td align="center" width="50%">
-
-### 🖥️ Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark&perline=5" width="100%" />
-
-</td>
-</tr>
-
-<tr width="50%">
-<td align="center" width="50%">
-
-### ⚙️ Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb&theme=dark&perline=5" width="100%" />
-
-</td>
-
-<td align="center" width="50%">
-
-### 🛠️ Tools & Design
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,pixso&theme=dark&perline=5" width="100%" />
-
-</td>
-</tr>
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>🎨 Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=next,react,tailwind,html,css,javascript,typescript&theme=dark" />
+    </td>
+    <td align="center">
+      <h3>⚙️ Backend & Database</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>📱 Languages</h3>
+      <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts&theme=dark" />
+    </td>
+    <td align="center">
+      <h3>🛠️ Tools & Technologies</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,figma,netlify,vercel,render&theme=dark" />
+    </td>
+  </tr>
 </table>
+
+<hr>
+
 
 <br>
 
