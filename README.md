@@ -58,7 +58,7 @@ Currently open to Internship, Junior Software Engineer, and Full-Stack Developer
     </td>
     <td align="center">
       <h3>🛠️ Tools & Technologies</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,figma,netlify,vercel,render&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=git,github,figma,netlify,vercel&theme=dark" />
     </td>
   </tr>
 </table>
