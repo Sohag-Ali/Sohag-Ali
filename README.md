@@ -17,20 +17,34 @@
 <td width="60%" valign="top">
 
 ```yaml
+Name: Sohag Ali
+Role: Full-Stack Developer
 Location: Uttara, Dhaka, Bangladesh
 Education: B.Sc. in Computer Science and Engineering,
   Daffodil International University (DIU)
-Open to: Full-time opportunities, freelance projects,
-  and open source collaboration
-Currently Learning: Next.js & Prisma
+Currently Learning: Next.js & Prisma ORM
+Currently Building: A full-stack e-commerce platform
+Open to: Full-time opportunities, Internship,
+  freelance projects, and open source collaboration
+Reach me: sohag.ali.dev@gmail.com
+Portfolio: https://portfolio-sohag-ali.vercel.app
 ```
-Full-Stack Developer with hands-on experience building modern web applications using React, Next.js, Node.js, MongoDB, PostgreSQL, and Prisma. Experienced in developing end-to-end solutions, from database design and API development to responsive user interfaces and deployment.
-
-Currently open to Internship, Junior Software Engineer, and Full-Stack Developer opportunities, with a strong interest in building impactful products and growing within high-performing engineering teams.
 
 </td>
 <td width="40%" align="center" valign="top">
-<img width="100%" style="max-width:300px; height:340px;" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Animation" />
+<img width="100%" style="max-width:300px; height:250px;" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Animation" />
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+Full Stack Developer with hands on experience building modern, scalable web applications using **React, Next.js, Node.js, MongoDB, PostgreSQL, and Prisma ORM**. Skilled in developing end-to-end solutions from database design and RESTful API development to responsive, user-friendly interfaces and production deployment.
+
+Over the past couple of years, I've independently built and deployed **10+ real-world projects**, including e-commerce platforms, admin dashboards, authentication systems, and portfolio websites, gaining practical experience across the entire software development lifecycle. I completed **Programming Hero Level 1 & 2**, a project-based program that strengthened my foundation in modern full-stack development and best coding practices.
+
+I care deeply about writing clean, maintainable code, understanding the "why" behind every technical decision, and continuously improving through real-world problem-solving rather than just following tutorials.
+
+Currently open to **Internship, Junior Software Engineer,** and **Full-Stack Developer** opportunities, with a strong interest in building impactful products, learning from experienced engineers, and growing within high-performing engineering teams. Long-term, I aim to grow into a well-rounded software engineer who not only builds scalable, secure applications but also supports and mentors junior developers along the way.
 </td>
 </tr>
 </table>
