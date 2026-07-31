@@ -28,6 +28,7 @@ Open to: Full-time opportunities, Internship,
   freelance projects, and open source collaboration
 Reach me: sohag.ali.dev@gmail.com
 Portfolio: https://portfolio-sohag-ali.vercel.app
+LinkedIn : www.linkedin.com/in/sohag-ali-bd
 ```
 
 </td>
