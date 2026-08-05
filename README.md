@@ -17,7 +17,7 @@
 <td width="60%" valign="top">
 
 ```yaml
-Name: Sohag Ali
+Name: Md Sohag Ali
 Role: Full-Stack Developer
 Location: Uttara, Dhaka, Bangladesh
 Education: B.Sc. in Computer Science and Engineering,
