@@ -27,7 +27,7 @@ Currently Building: A full-stack e-commerce platform
 Open to: Full-time opportunities, Internship,
   freelance projects, and open source collaboration
 Reach me: sohag.ali.dev@gmail.com
-Portfolio: https://portfolio-sohag-ali.vercel.app
+Portfolio: www.sohagali.me
 LinkedIn : www.linkedin.com/in/sohag-ali-bd
 ```
 
@@ -152,7 +152,7 @@ Currently open to **Internship, Junior Software Engineer,** and **Full-Stack Dev
 <a href="https://www.linkedin.com/in/sohag-ali-bd" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
 </a>
-<a href="https://portfolio-sohag-ali.vercel.app" target="_blank">
+<a href="www.sohagali.me" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0A192F" />
 </a>
 <a href="https://www.facebook.com/share/1AvrG2DC7b/" target="_blank">
