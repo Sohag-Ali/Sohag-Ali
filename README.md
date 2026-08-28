@@ -18,7 +18,7 @@
 
 ```yaml
 Name: Md Sohag Ali
-Role: Full-Stack Developer
+Role: Software Engineer
 Location: Uttara, Dhaka, Bangladesh
 Education: B.Sc. in Computer Science and Engineering,
   Daffodil International University (DIU)
