@@ -22,7 +22,7 @@ Role: Software Engineer
 Location: Uttara, Dhaka, Bangladesh
 Education: B.Sc. in Computer Science and Engineering,
   Daffodil International University (DIU)
-Currently Learning: Next.js & Prisma ORM
+Currently Learning: Nest.js & Docker
 Currently Building: A full-stack e-commerce platform
 Open to: Full-time opportunities, Internship,
   freelance projects, and open source collaboration
@@ -39,7 +39,7 @@ LinkedIn : www.linkedin.com/in/sohag-ali-bd
 <tr>
 <td colspan="2" valign="top">
 
-Full Stack Developer with hands on experience building modern, scalable web applications using **React, Next.js, Node.js, MongoDB, PostgreSQL, and Prisma ORM**. Skilled in developing end-to-end solutions from database design and RESTful API development to responsive, user-friendly interfaces and production deployment.
+Full Stack Developer with hands on experience building modern, scalable web applications using **React, Next.js, Node.js, MongoDB, PostgreSQL, and Prisma ORM**. Skilled in developing end-to-end solutions from database design and RESTful API development to responsive, user friendly interfaces and production deployment.
 
 Over the past couple of years, I've independently built and deployed **10+ real-world projects**, including e-commerce platforms, admin dashboards, authentication systems, and portfolio websites, gaining practical experience across the entire software development lifecycle. I completed **Programming Hero Level 1 & 2**, a project-based program that strengthened my foundation in modern full-stack development and best coding practices.
 
