@@ -25,7 +25,7 @@ Education: B.Sc. in Computer Science and Engineering,
 Currently Learning: Nest.js & Docker
 Currently Building: A full-stack e-commerce platform
 Open to: Full-time opportunities, Internship,
-  freelance projects, and open source collaboration
+   open source collaboration
 Reach me: sohag.ali.dev@gmail.com
 Portfolio: www.sohagali.me
 LinkedIn : www.linkedin.com/in/sohag-ali-bd
