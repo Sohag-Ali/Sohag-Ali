@@ -22,7 +22,7 @@ Role: Software Engineer
 Location: Uttara, Dhaka, Bangladesh
 Education: B.Sc. in Computer Science and Engineering,
   Daffodil International University (DIU)
-Currently Learning:  Docker & RAG
+Currently Learning:  Docker 
 Future Learning: CI/CD & LLM
 Currently Building: A full-stack e-commerce platform
 Open to: Full-time opportunities, Internship,
